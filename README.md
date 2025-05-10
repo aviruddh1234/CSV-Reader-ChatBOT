@@ -58,7 +58,4 @@ langchain-csv-chat/
 - LangChain Experimental Agents  
 - Streamlit for interactive UI  
 - OpenAI for LLM APIs  
-## License  
-This project is licensed under the MIT License.  
----  
-Built with 🧠 and ❤️ using LangChain + OpenAI + Streamlit
+
